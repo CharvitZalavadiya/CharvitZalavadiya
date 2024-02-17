@@ -15,4 +15,4 @@
 
 ## 🛠 Languages & Tools
 
-<span style="background-color: #007ec6; color: #fff; padding: 5px 10px; border-radius: 5px;"><img src="https://github.com/CharvitZalavadiya/CharvitZalavadiya.git"></span>
+<span style="background-color: #007ec6; color: #fff; padding: 5px 10px; border-radius: 5px;"><img src="D:\Google\react.webp"></span>
