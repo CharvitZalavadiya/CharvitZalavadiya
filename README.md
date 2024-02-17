@@ -15,4 +15,4 @@
 
 ## 🛠 Languages & Tools
 
-<span><img src="D:\Google\react.webp" width="50px" heigth="50px"></span>
+<span><img src="react.png" width="50px" heigth="50px"></span>
