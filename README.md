@@ -15,4 +15,4 @@
 
 ## 🛠 Languages & Tools
 
-<span><img src="react.png" width="150px" heigth="70px">ReactJS</span>
+<span><img src="react" width="150px" heigth="70px"></span>
