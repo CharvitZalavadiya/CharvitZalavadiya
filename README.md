@@ -15,4 +15,4 @@
 
 ## 🛠 Languages & Tools
 
-ReactJS
+<span style="background-color: #007ec6; color: #fff; padding: 5px 10px; border-radius: 5px;">ReactJS</span>
