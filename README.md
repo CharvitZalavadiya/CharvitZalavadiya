@@ -15,4 +15,11 @@
 
 ## 🛠 Languages & Tools
 
-<span><img src="express-js.png" width='30px' heigth='15px'>ExpressJS</span>
+<span><img src="css.png" width='30px' heigth='15px'></span>
+<span><img src="express-js.png" width='30px' heigth='15px'></span>
+<span><img src="html.png" width='30px' heigth='15px'></span>
+<span><img src="javascript.png" width='30px' heigth='15px'></span>
+<span><img src="mongo.png" width='30px' heigth='15px'></span>
+<span><img src="postman-api.png" width='30px' heigth='15px'></span>
+<span><img src="react.png" width='30px' heigth='15px'></span>
+<span><img src="tailwind-css.png" width='30px' heigth='15px'></span>
