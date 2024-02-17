@@ -15,4 +15,4 @@
 
 ## 🛠 Languages & Tools
 
-<span><img src="express-js.png" width='100px' heigth='50px'></span>
+<span><img src="express-js.png" width='10px' heigth='5px'></span>
