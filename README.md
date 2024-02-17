@@ -15,7 +15,7 @@
 
 ## 🛠 Languages & Tools
 
-<span style="padding: 10px 20px;"><img src="css.png" width='30px' heigth='15px' style="margin: 10px 20px;"></span>
+<span style="padding: 10px 20px;"><img src="css.png" width='30px' heigth='15px'>    </span>
 <span><img src="express-js.png" width='30px' heigth='15px'></span>
 <span><img src="html.png" width='30px' heigth='15px'></span>
 <span><img src="javascript.png" width='30px' heigth='15px'></span>
