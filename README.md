@@ -15,4 +15,4 @@
 
 ## 🛠 Languages & Tools
 
-<span style="background-color: #007ec6; color: #fff; padding: 5px 10px; border-radius: 5px;"><img src="D:\Google\react.webp"></span>
+<span><img src="D:\Google\react.webp" width="50px" heigth="50px"></span>
