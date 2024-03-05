@@ -33,4 +33,5 @@
 - Musify - https://musify-cz.onrender.com
 - Orbital -https://charvitzalavadiya.github.io/orbital/
 - Portfolio -  https://charvitzalavadiya.netlify.app/
+- Solar System - https://charvitzalavadiya.github.io/SolarSystem/
 - YouTube Clone - https://charvitzalavadiya.github.io/ytclone/
