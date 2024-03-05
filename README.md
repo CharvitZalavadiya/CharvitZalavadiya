@@ -38,6 +38,8 @@
 
 ***
 
+## Status of GitHub
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CharvitZalavadiya&show_icons=true&locale=en&layout=compact" alt="CharvitZalavadiya" /></p>
 
 <p style="margin-top: 20px"><img align="left" src="https://github-readme-stats.vercel.app/api?username=CharvitZalavadiya&show_icons=true&locale=en" alt="CharvitZalavadiya" /></p><br>
