@@ -28,9 +28,9 @@
 
 ***
 
-## 💻 PROJECTS
+## 💻 Projects
 
-Musify - musify-cz.onrender.com
-Orbital -charvitzalavadiya.github.io/orbital/
-Portfolio -  charvitzalavadiya.netlify.app/
-YouTube Clone - charvitzalavadiya.github.io/ytclone/
+Musify - https://musify-cz.onrender.com
+Orbital -https://charvitzalavadiya.github.io/orbital/
+Portfolio -  https://charvitzalavadiya.netlify.app/
+YouTube Clone - https://charvitzalavadiya.github.io/ytclone/
