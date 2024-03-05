@@ -41,3 +41,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CharvitZalavadiya&show_icons=true&locale=en&layout=compact" alt="CharvitZalavadiya" /></p>
 
 <p style="margin-top: 20px"><img align="left" src="https://github-readme-stats.vercel.app/api?username=CharvitZalavadiya&show_icons=true&locale=en" alt="CharvitZalavadiya" /></p>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=CharvitZalavadiya&theme=merko&hide_border=false)<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=CharvitZalavadiya&theme=monokai&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)<br>
