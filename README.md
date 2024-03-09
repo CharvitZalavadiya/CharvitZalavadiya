@@ -10,7 +10,6 @@
 - 📫 How to reach me:
   - LinkedIn : <a href='https://www.linkedin.com/in/charvit-zalavadiya-1b34b3243/'>linkedin.com/in/CharvitZalavadiya</a>
   - Email : charvitzalavadiya@gmail.com
-- Resume : <img src='CharvitZalavadiya_Resume'>
 
 ***
 
