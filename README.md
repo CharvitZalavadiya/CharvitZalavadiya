@@ -31,6 +31,7 @@
 
 ## 💻 Projects
 
+- Google Landing Page - https://googlecz.netlify.app
 - Musify - https://musify-cz.onrender.com
 - Orbital -https://charvitzalavadiya.github.io/orbital/
 - Portfolio -  https://charvitzalavadiya.netlify.app/
