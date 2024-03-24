@@ -9,6 +9,7 @@
 - 👯 I’m looking to collaborate with the person who have an project and looking for FrontEnd Developer
 - 📫 How to reach me:
   - LinkedIn : <a href='https://www.linkedin.com/in/charvit-zalavadiya-1b34b3243/'>linkedin.com/in/CharvitZalavadiya</a>
+  - X : <a href='https://twitter.com/Charvit_Z'>twitter.com/Charvit_Z</a>
   - Email : charvitzalavadiya@gmail.com
 
 ***
