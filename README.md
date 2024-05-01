@@ -46,9 +46,9 @@
 
 ## Status of GitHub
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CharvitZalavadiya&show_icons=true&locale=en&layout=compact" alt="CharvitZalavadiya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CharvitZalavadiya&theme=dark&show_icons=true&locale=en&layout=compact" alt="CharvitZalavadiya" /></p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=CharvitZalavadiya&show_icons=true&locale=en" alt="CharvitZalavadiya" /><br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=CharvitZalavadiya&theme=dark&show_icons=true&locale=en" alt="CharvitZalavadiya" /><br/>
 
 
 <br>![](https://github-readme-streak-stats.herokuapp.com/?user=CharvitZalavadiya&theme=merko&hide_border=false)<br/>
