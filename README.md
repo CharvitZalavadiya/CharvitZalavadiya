@@ -37,6 +37,8 @@
 
 ## 💻 Projects
 
+- Mindmaps - https://mind-maps-cz.vercel.app
+- FakeBusters - https://fake-busters.netlify.app
 - Google Landing Page - https://googlecz.netlify.app
 - Musify - https://musify-cz.onrender.com
 - Orbital -https://charvitzalavadiya.github.io/orbital/
