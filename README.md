@@ -2,8 +2,6 @@
 
 ***
 
-- I'm a FullStack Web Developer
-
 - 🔭 I’m a Fullstack Developer
 - 🌱 Currently learning more about Cloud Computing, DevOps and IoT
 - 📫 How to reach me:
