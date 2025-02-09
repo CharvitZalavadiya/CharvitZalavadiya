@@ -35,6 +35,9 @@
 <span><img src="css.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span><img src="java.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span><img src="python.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span><img src="figma.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span><img src="webflow.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span><img src="wix.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 
 ***
 
