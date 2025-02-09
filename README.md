@@ -37,7 +37,7 @@
 <span><img src="python.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span><img src="git.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span><img src="github.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span><img src="clerk.png" width='40px' heigth='20px' style="border-radius: '50%'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span><img src="clerk.png" width='40px' heigth='20px' style="border-radius: 50%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span><img src="figma.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span><img src="webflow.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span><img src="wix.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
