@@ -19,12 +19,7 @@
 
 
 
-| 📚 **Languages**  |<span><img src="javascript.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span><img src="typescript.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span><img src="css.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span><img src="html.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span><img src="java.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span><img src="python.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>   |
+| 📚 **Languages**  | <span><img src="javascript.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span><img src="typescript.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span><img src="css.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span><img src="html.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span><img src="java.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span><img src="python.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> |
 |-------------------|---|
 | 📟 **Frontend**   |   |
 | 🖧 **Backend**     |   |
