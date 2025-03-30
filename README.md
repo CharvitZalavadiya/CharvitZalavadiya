@@ -13,9 +13,9 @@
 
 ## 🛠 Tech Stack
 
-| 📚 Languages | 📟 Frontend | 🖧 Backend | 🪄 UILibraries | 🗃️ Databases | ♾️ DevOps | 🤖 OtherTechs | 🎨 WebDesigning |
+| 📚 Languages | 📟 Frontend | 🖧 Backend | 🪄 UILibraries | 🗃️ Databases | ♾️ DevOps | 🤖 OtherTechs | 🎨 Designing |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| <span><img src="javascript.png" width='40px' heigth='20px'></span><br><span><img src="typescript.png" width='40px' heigth='20px'></span><br><span><img src="css.png" width='40px' heigth='20px'></span><br><span><img src="html.png" width='40px' heigth='20px'></span><br><span><img src="java.png" width='40px' heigth='20px'></span><br><br><span><img src="python.png" width='40px' heigth='20px'></span><br> | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| <img src="javascript.png" width='40px' heigth='20px'><br><img src="typescript.png" width='40px' heigth='20px'><br><img src="css.png" width='40px' heigth='20px'><br><img src="html.png" width='40px' heigth='20px'><br><img src="java.png" width='40px' heigth='20px'><br><br><img src="python.png" width='40px' heigth='20px'><br> | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 
 
 #### 📚 Languages
