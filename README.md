@@ -13,7 +13,7 @@
 
 ## 🛠 Tech Stack
 
-- Languages
+### Languages
 <span><img src="next.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span><img src="react.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span><img src="typescript.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
