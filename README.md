@@ -15,26 +15,23 @@
 
 | 📚 Languages | 📟 Frontend | 🖧 Backend | 🪄 UILibraries | 🗃️ Databases | ♾️ DevOps | 🤖 OtherTechs | 🎨 Designing |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| <img src="javascript.png" width='40px' heigth='20px'><br><img src="typescript.png" width='40px' heigth='20px'><br><img src="css.png" width='40px' heigth='20px'><br><img src="html.png" width='40px' heigth='20px'><br><img src="java.png" width='40px' heigth='20px'><br><img src="python.png" width='35px' heigth='17.5px'><br> 
-| 📚 Languages | hii
-| 📟 Frontend | hii
-| 🖧 Backend 
-| 🪄 UILibraries 
-| 🗃️ Databases 
-| ♾️ DevOps 
-| 🤖 OtherTechs 
-| 🎨 Designing 
+| <img src="javascript.png" width='40px' heigth='20px'><br><img src="typescript.png" width='40px' heigth='20px'><br><img src="css.png" width='40px' heigth='20px'><br><img src="html.png" width='40px' heigth='20px'><br><img src="java.png" width='40px' heigth='20px'><br><img src="python.png" width='35px' heigth='17.5px'><br>
 
 
 
-| 📚 **Languages**  |   |
+| 📚 **Languages**  |<span><img src="javascript.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span><img src="typescript.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span><img src="css.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span><img src="html.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span><img src="java.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span><img src="python.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>   |
 |-------------------|---|
 | 📟 **Frontend**   |   |
 | 🖧 **Backend**     |   |
-| 🪄 **UILibraries**|   |
+| 🪄 **UI Libraries**|   |
 | 🗃️ **Databases**  |   |
 | ♾️ **DevOPs**     |   |
-| 🤖 **OtherTechs** |   |
+| 🤖 **Other Techs** |   |
 | 🎨 **Designing**  |   |
 
 #### 📚 Languages
