@@ -15,7 +15,7 @@
 
 | 📚 Languages | 📟 Frontend | 🖧 Backend | 🪄 UILibraries | 🗃️ Databases | ♾️ DevOps | 🤖 OtherTechs | 🎨 WebDesigning |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| <span><img src="javascript.png" width='40px' heigth='20px'></span><br><span><img src="typescript.png" width='40px' heigth='20px'></span><br><span><img src="css.png" width='40px' heigth='20px'></span><br><span><img src="html.png" width='40px' heigth='20px'></span><br><span><img src="java.png" width='40px' heigth='20px'></span><br><span><img src="python.png" width='40px' heigth='20px'></span><br> | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| <span><img src="javascript.png" width='40px' heigth='20px'></span><br><span><img src="typescript.png" width='40px' heigth='20px'></span><br><span><img src="css.png" width='40px' heigth='20px'></span><br><span><img src="html.png" width='40px' heigth='20px'></span><br><span><img src="java.png" width='40px' heigth='20px'></span><br><br><span><img src="python.png" width='40px' heigth='20px'></span><br> | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 
 
 #### 📚 Languages
