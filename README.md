@@ -91,7 +91,7 @@
 
 ## 💻 Projects
 
-- Mindmaps - https://mind-maps-cz.vercel.app
+- Mindmaps - https://mind-maps.vercel.app
 - FakeBusters - https://fake-busters.netlify.app
 - Google Landing Page - https://googlecz.netlify.app
 - Musify - https://musify-cz.onrender.com
