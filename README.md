@@ -17,11 +17,11 @@
 |-------------------|---|
 | 📟 **Frontend**   | <img src="next.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="react.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | 🖧 **Backend**     | <img src="express-js.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="node-js.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-| 🪄 **UI Libraries**|   |
-| 🗃️ **Databases**  |   |
-| ♾️ **DevOPs**     |   |
-| 🤖 **Other Techs** |   |
-| 🎨 **Designing**  |   |
+| 🪄 **UI Libraries**| <img src="tailwind-css.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="shadcn.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="sass (1).png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="mui.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| 🗃️ **Databases**  | <img src="mongo.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="firebase.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="mysql.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| ♾️ **DevOPs**     | <img src="docker.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="linux.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="git.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="github.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| 🤖 **Other Techs** | <img src="socketio.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="postman-api.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="clerk.png" width='40px' heigth='20px' style="border-radius: 50%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| 🎨 **Designing**  | <img src="figma.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="webflow.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="wix.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 
 #### 📚 Languages
 <span><img src="javascript.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
