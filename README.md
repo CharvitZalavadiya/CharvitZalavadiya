@@ -13,32 +13,45 @@
 
 ## 🛠 Tech Stack
 
-#### Languages
-<span><img src="next.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span><img src="react.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span><img src="typescript.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span><img src="express-js.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span><img src="node-js.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+#### 📚 Languages
 <span><img src="javascript.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span><img src="mongo.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span><img src="docker.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span><img src="socketio.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span><img src="linux.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span><img src="firebase.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span><img src="mysql.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span><img src="mui.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span><img src="image.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span><img src="tailwind-css.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span><img src="sass (1).png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span><img src="typescript.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span><img src="css.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span><img src="html.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span><img src="postman-api.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span><img src="css.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span><img src="java.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span><img src="python.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+
+#### 📟 Frontend
+<span><img src="next.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span><img src="react.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+
+#### 🖧 Backend
+<span><img src="express-js.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span><img src="node-js.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+
+#### 🪄 UI Libraries
+<span><img src="tailwind-css.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span><img src="shadcn.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span><img src="sass (1).png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span><img src="mui.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+
+#### 🗃️ Databases
+<span><img src="mongo.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span><img src="firebase.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span><img src="mysql.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+
+#### ♾️ DevOps
+<span><img src="docker.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span><img src="linux.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span><img src="git.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span><img src="github.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+
+#### 🤖 Other Techs
+<span><img src="socketio.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span><img src="postman-api.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span><img src="clerk.png" width='40px' heigth='20px' style="border-radius: 50%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+
+#### 🎨 Web Designing
 <span><img src="figma.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span><img src="webflow.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span><img src="wix.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
