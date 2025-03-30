@@ -13,7 +13,7 @@
 
 ## 🛠 Tech Stack
 
-| 📚 Languages | 📟 Frontend | 🖧 Backend | 🪄 UI-Libraries | 🗃️ Databases | ♾️ DevOps | 🤖 OtherTechs | 🎨 Web Designing |
+| 📚 Languages | 📟 Frontend | 🖧 Backend | 🪄 UILibraries | 🗃️ Databases | ♾️ DevOps | 🤖 OtherTechs | 🎨 WebDesigning |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 |
 <span><img src="javascript.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
