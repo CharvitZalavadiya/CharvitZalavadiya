@@ -19,10 +19,10 @@
 | 📚 Languages | hii
 | 📟 Frontend | hii
 | 🖧 Backend 
-| 🪄 UI Libraries 
+| 🪄 UILibraries 
 | 🗃️ Databases 
 | ♾️ DevOps 
-| 🤖 Other Techs 
+| 🤖 OtherTechs 
 | 🎨 Designing 
 |
 
