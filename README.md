@@ -27,15 +27,15 @@
 
 
 
-| **Languages**   |   |   |   |   |
-|-----------------|---|---|---|---|
-| **Frontend**    |   |   |   |   |
-| **Backend**     |   |   |   |   |
-| **UILibraries** |   |   |   |   |
-| **Databases**   |   |   |   |   |
-| **DevOPs**      |   |   |   |   |
-| **OtherTechs**  |   |   |   |   |
-| **Designing**   |   |   |   |   |
+| 📚 **Languages**  |   |
+|-------------------|---|
+| 📟 **Frontend**   |   |
+| 🖧 **Backend**     |   |
+| 🪄 **UILibraries**|   |
+| 🗃️ **Databases**  |   |
+| ♾️ **DevOPs**     |   |
+| 🤖 **OtherTechs** |   |
+| 🎨 **Designing**  |   |
 
 #### 📚 Languages
 <span><img src="javascript.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
