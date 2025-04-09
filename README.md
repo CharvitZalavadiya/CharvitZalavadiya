@@ -105,10 +105,11 @@
 ## 📊 Status of GitHub
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CharvitZalavadiya&theme=blue-green&show_icons=true&locale=en&layout=compact" alt="CharvitZalavadiya" /></p>
-![](https://github-streak-stats.vercel.app/?user=CharvitZalavadiya&theme=blue-green&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=CharvitZalavadiya&theme=blue-green&hide_border=false)<br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=CharvitZalavadiya&theme=blue-green&show_icons=true&locale=en" alt="CharvitZalavadiya" /><br/>
 
 
 <!-- <br>![](https://github-readme-streak-stats.herokuapp.com/?user=CharvitZalavadiya&theme=blue-green&hide_border=false)<br/> -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CharvitZalavadiya&theme=monokai&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)<br>
+[![](https://visitcount.itsvg.in/api?id=CharvitZalavadiya&icon=0&color=0)](https://visitcount.itsvg.in)
