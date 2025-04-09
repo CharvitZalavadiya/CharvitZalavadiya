@@ -105,7 +105,7 @@
 ## 📊 Status of GitHub
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CharvitZalavadiya&theme=blue-green&show_icons=true&locale=en&layout=compact" alt="CharvitZalavadiya" /></p>
-<p><img align="right" src="https://nirzak-streak-stats.vercel.app/?user=CharvitZalavadiya&theme=blue-green&hide_border=false" /></p>
+<p><img align="left" src="https://nirzak-streak-stats.vercel.app/?user=CharvitZalavadiya&theme=blue-green&hide_border=false" /></p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=CharvitZalavadiya&theme=blue-green&show_icons=true&locale=en" alt="CharvitZalavadiya" /><br/>
 
 
