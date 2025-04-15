@@ -92,6 +92,7 @@
 ## 💻 Projects
 
 - Mindmaps - https://mind-maps.vercel.app
+- HideOn - https://hideon.netlify.app
 - FakeBusters - https://fake-busters.netlify.app
 - Google Landing Page - https://googlecz.netlify.app
 - Musify - https://musify-cz.onrender.com
