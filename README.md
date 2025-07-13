@@ -114,3 +114,15 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CharvitZalavadiya&theme=monokai&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)<br>
 [![](https://visitcount.itsvg.in/api?id=CharvitZalavadiya&icon=0&color=0)](https://visitcount.itsvg.in)
+
+***
+
+<img src="https://raw.githubusercontent.com/CharvitZalavadiya/CharvitZalavadiya/output/snake.svg" alt="Snake animation" />
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CharvitZalavadiya/CharvitZalavadiya/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CharvitZalavadiya/CharvitZalavadiya/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CharvitZalavadiya/CharvitZalavadiya/output/pacman-contribution-graph.svg">
+</picture>
