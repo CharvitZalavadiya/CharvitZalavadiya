@@ -114,7 +114,3 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CharvitZalavadiya&theme=monokai&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)<br>
 [![](https://visitcount.itsvg.in/api?id=CharvitZalavadiya&icon=0&color=0)](https://visitcount.itsvg.in)
-
-***
-
-<img src="https://raw.githubusercontent.com/CharvitZalavadiya/CharvitZalavadiya/output/snake.svg" alt="Snake animation" />
