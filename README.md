@@ -91,15 +91,16 @@
 
 ## 💻 Projects
 
+- Portfolio ( New ) -  https://charvitzalavadiya.vercel.app/
 - Mindmaps - https://mind-maps.vercel.app
 - HideOn - https://hideon.netlify.app
-- FakeBusters - https://fake-busters.netlify.app
 - Google Landing Page - https://googlecz.netlify.app
-- Musify - https://musify-cz.onrender.com
-- Orbital -https://charvitzalavadiya.github.io/orbital/
-- Portfolio -  https://charvitzalavadiya.netlify.app/
-- Solar System - https://charvitzalavadiya.github.io/SolarSystem/
-- YouTube Clone - https://charvitzalavadiya.github.io/ytclone/
+- Portfolio ( Old ) -  https://charvitzalavadiya.netlify.app/
+- Solar System ( First Project! There is nothing :) ) - https://charvitzalavadiya.github.io/SolarSystem/
+<!-- - FakeBusters - https://fake-busters.netlify.app -->
+<!-- - Musify - https://musify-cz.onrender.com -->
+<!-- - Orbital -https://charvitzalavadiya.github.io/orbital/ -->
+<!-- - YouTube Clone - https://charvitzalavadiya.github.io/ytclone/ -->
 
 ***
 
