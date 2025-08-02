@@ -91,6 +91,18 @@
 
 ## 💻 Projects
 
+- Portfolio ( New ) -  https://charvitzalavadiya.vercel.app/
+- Mindmaps - https://mind-maps.vercel.app
+- HideOn - https://hideon.netlify.app
+- Google Landing Page - https://googlecz.netlify.app
+- Portfolio ( Old ) -  https://charvitzalavadiya.netlify.app/
+- Solar System ( First Project! There is nothing :) ) - https://charvitzalavadiya.github.io/SolarSystem/
+<!-- - FakeBusters - https://fake-busters.netlify.app -->
+<!-- - Musify - https://musify-cz.onrender.com -->
+<!-- - Orbital -https://charvitzalavadiya.github.io/orbital/ -->
+<!-- - YouTube Clone - https://charvitzalavadiya.github.io/ytclone/ -->
+
+<!--
 <div style="display: grid; gap: 10px">
 
 <div style="background-color: rgba(0, 255, 0, 0.05); padding: 10px; border-radius: 18px; display: grid; gap: 5px">
@@ -418,6 +430,8 @@
 </div>
 
 </div>
+
+-->
 
 ***
 
