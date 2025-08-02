@@ -91,16 +91,333 @@
 
 ## 💻 Projects
 
-- Portfolio ( New ) -  https://charvitzalavadiya.vercel.app/
-- Mindmaps - https://mind-maps.vercel.app
-- HideOn - https://hideon.netlify.app
-- Google Landing Page - https://googlecz.netlify.app
-- Portfolio ( Old ) -  https://charvitzalavadiya.netlify.app/
-- Solar System ( First Project! There is nothing :) ) - https://charvitzalavadiya.github.io/SolarSystem/
-<!-- - FakeBusters - https://fake-busters.netlify.app -->
-<!-- - Musify - https://musify-cz.onrender.com -->
-<!-- - Orbital -https://charvitzalavadiya.github.io/orbital/ -->
-<!-- - YouTube Clone - https://charvitzalavadiya.github.io/ytclone/ -->
+<div style="display: grid; gap: 10px">
+
+<div style="background-color: rgba(0, 255, 0, 0.05); padding: 10px; border-radius: 18px; display: grid; gap: 5px">
+
+  <span style="font-size: 16px; font-weight: 500">Portfolio ( New )</span>
+
+  <div style="display: flex; align-items: center; gap: 5px; border-radius: 9999px; margin-top: -20px">
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center; cursor: pointer" onclick="window.location.replace('https://github.com/CharvitZalavadiya/Portfolio');">
+      <img src="github.png" alt="Image description" style="height: 20px; margin-right: 10px; border-radius: 50%;"> 
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">Repo</span>
+    </span>
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center; cursor: pointer" onclick="window.location.replace('https://charvitzalavadiya.vercel.app');">
+      <img src="rightup.png" alt="Image description" style="height: 20px; margin-right: 10px; border-radius: 50%;">
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">Live</span>
+    </span>
+  </div>
+
+  <ul style="margin-left: -20px; margin-bottom: -5px; margin-right: 10px; text-align: justify">
+    <li>Developed a full-stack portfolio website using Next.js and React, showcasing personal projects with live demos and source code links.</li>
+    <li>Designed a modular MacOS like, user-focused interface to highlight project accomplishments, technical skills, and professional experience for recruiters and collaborators.</li>
+  </ul>
+
+  <div style="display: flex; align-items: center; gap: 10px; border-radius: 9999px; padding: 3px; width: fit-content; flex-wrap: wrap">
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="next.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;"> 
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">NextJS</span>
+    </span>
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="tailwind-css.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;">
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">TailwindCSS</span>
+    </span>
+  </div>
+</div>
+
+
+
+<div style="background-color: rgba(0, 255, 0, 0.05); padding: 10px; border-radius: 18px; display: grid; gap: 5px">
+
+  <span style="font-size: 16px; font-weight: 500">Mindmaps</span>
+
+  <div style="display: flex; align-items: center; gap: 5px; border-radius: 9999px; margin-top: -20px">
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center; cursor: pointer" onclick="window.location.replace('https://github.com/CharvitZalavadiya/mm');">
+      <img src="github.png" alt="Image description" style="height: 20px; margin-right: 10px; border-radius: 50%;"> 
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">Repo</span>
+    </span>
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center; cursor: pointer" onclick="window.location.replace('https://mind-maps.vercel.app');">
+      <img src="rightup.png" alt="Image description" style="height: 20px; margin-right: 10px; border-radius: 50%;">
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">Live</span>
+    </span>
+  </div>
+
+  <ul style="margin-left: -20px; margin-bottom: -5px; margin-right: 10px; text-align: justify">
+    <li>Built a flowchart builder with 2 node shapes, 6 node colors, and can be search by title or color of flowchart.</li>
+    <li>It is a cutting-edge platform that uses AES encryption technique to store data of 35 real users and 5+ active users</li>
+    <li>It allows users to create, manage, and organize tasks with 7 color-coded notes. It also have feature for filtering notes for quick access based on title, color of the notes.</li>
+    <li>On top of that user can send friend requests to friends on the same platform, and can have a real-time chat where messages are delivered in just 0.5 seconds for seamless communication experience.</li>
+  </ul>
+
+  <div style="display: flex; align-items: center; gap: 10px; border-radius: 9999px; padding: 3px; width: fit-content; flex-wrap: wrap">
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="next.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;"> 
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">NextJS</span>
+    </span>
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="express-js.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;">
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">ExpressJS</span>
+    </span>
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="mongo.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;">
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">MongoDB</span>
+    </span>
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="clerk.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;">
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">Clerk</span>
+    </span>
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="socketio.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;">
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">Socket.io</span>
+    </span>
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="tailwind-css.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;">
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">TailwindCSS</span>
+    </span>
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="shadcn.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;">
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">ShadCN</span>
+    </span>
+  </div>
+</div>
+
+
+
+<div style="background-color: rgba(0, 255, 0, 0.05); padding: 10px; border-radius: 18px; display: grid; gap: 5px">
+
+  <span style="font-size: 16px; font-weight: 500">HideOn</span>
+
+  <div style="display: flex; align-items: center; gap: 5px; border-radius: 9999px; margin-top: -20px">
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center; cursor: pointer" onclick="window.location.replace('https://github.com/CharvitZalavadiya/HideOn');">
+      <img src="github.png" alt="Image description" style="height: 20px; margin-right: 10px; border-radius: 50%;"> 
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">Repo</span>
+    </span>
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center; cursor: pointer" onclick="window.location.replace('https://hideon.netlify.app');">
+      <img src="rightup.png" alt="Image description" style="height: 20px; margin-right: 10px; border-radius: 50%;">
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">Live</span>
+    </span>
+  </div>
+
+  <ul style="margin-left: -20px; margin-bottom: -5px; margin-right: 10px; text-align: justify">
+    <li>Deployed an encryption-decryption website for cipher execution, supporting 13 ciphers including modern techniques.</li>
+    <li>Enabled encryption and decryption via console commands, with plans to integrate a GUI for improved usability.</li>
+  </ul>
+
+  <div style="display: flex; align-items: center; gap: 10px; border-radius: 9999px; padding: 3px; width: fit-content; flex-wrap: wrap">
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="vite.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;"> 
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">Vite</span>
+    </span>
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="react.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;"> 
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">ReactJS</span>
+    </span>
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="css.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;">
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">CSS</span>
+    </span>
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="shadcn.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;">
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">ShadCN</span>
+    </span>
+  </div>
+</div>
+
+
+
+<div style="background-color: rgba(0, 255, 0, 0.05); padding: 10px; border-radius: 18px; display: grid; gap: 5px">
+
+  <span style="font-size: 16px; font-weight: 500">Browser Landing Page</span>
+
+  <div style="display: flex; align-items: center; gap: 5px; border-radius: 9999px; margin-top: -20px">
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center; cursor: pointer" onclick="window.location.replace('https://github.com/CharvitZalavadiya/Google');">
+      <img src="github.png" alt="Image description" style="height: 20px; margin-right: 10px; border-radius: 50%;"> 
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">Repo</span>
+    </span>
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center; cursor: pointer" onclick="window.location.replace('https://googlecz.netlify.app');">
+      <img src="rightup.png" alt="Image description" style="height: 20px; margin-right: 10px; border-radius: 50%;">
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">Live</span>
+    </span>
+  </div>
+
+  <ul style="margin-left: -20px; margin-bottom: -5px; margin-right: 10px; text-align: justify">
+    <li>A unique, re-imagined browser startup page made for large screens (laptops & monitors, 15”+).</li>
+    <li>It offers a sleek and focused user experience with an emphasis on SEO, a minimal UI (50% fewer distractions), and smooth navigation (30% faster access to content).</li>
+  </ul>
+
+  <div style="display: flex; align-items: center; gap: 10px; border-radius: 9999px; padding: 3px; width: fit-content; flex-wrap: wrap">
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="firebase.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;"> 
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">Firebase</span>
+    </span>
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="vite.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;"> 
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">Vite</span>
+    </span>
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="react.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;"> 
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">ReactJS</span>
+    </span>
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="sass.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;">
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">SCSS</span>
+    </span>
+  </div>
+</div>
+
+
+
+<div style="background-color: rgba(0, 255, 0, 0.05); padding: 10px; border-radius: 18px; display: grid; gap: 5px">
+
+  <span style="font-size: 16px; font-weight: 500">Portfolio ( Old )</span>
+
+  <div style="display: flex; align-items: center; gap: 5px; border-radius: 9999px; margin-top: -20px">
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center; cursor: pointer" onclick="window.location.replace('https://github.com/CharvitZalavadiya/Portfolio2');">
+      <img src="github.png" alt="Image description" style="height: 20px; margin-right: 10px; border-radius: 50%;"> 
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">Repo</span>
+    </span>
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center; cursor: pointer" onclick="window.location.replace('https://charvitzalavadiya.netlify.app');">
+      <img src="rightup.png" alt="Image description" style="height: 20px; margin-right: 10px; border-radius: 50%;">
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">Live</span>
+    </span>
+  </div>
+
+  <ul style="margin-left: -20px; margin-bottom: -5px; margin-right: 10px; text-align: justify">
+    <li>Simple portfolio which showcases about me, my education, skills, projects and contact details with modern UI and subtle animations.</li>
+  </ul>
+
+  <div style="display: flex; align-items: center; gap: 10px; border-radius: 9999px; padding: 3px; width: fit-content; flex-wrap: wrap">
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="vite.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;"> 
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">Vite</span>
+    </span>
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="react.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;"> 
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">ReactJS</span>
+    </span>
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="css.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;">
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">CSS</span>
+    </span>
+  </div>
+</div>
+
+
+
+<div style="background-color: rgba(0, 255, 0, 0.05); padding: 10px; border-radius: 18px; display: grid; gap: 5px">
+
+  <span style="font-size: 16px; font-weight: 500">Planet Info</span>
+
+  <div style="display: flex; align-items: center; gap: 5px; border-radius: 9999px; margin-top: -20px">
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center; cursor: pointer" onclick="window.location.replace('https://github.com/CharvitZalavadiya/SolarSystem');">
+      <img src="github.png" alt="Image description" style="height: 20px; margin-right: 10px; border-radius: 50%;"> 
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">Repo</span>
+    </span>
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center; cursor: pointer" onclick="window.location.replace('https://charvitzalavadiya.github.io/SolarSystem/');">
+      <img src="rightup.png" alt="Image description" style="height: 20px; margin-right: 10px; border-radius: 50%;">
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">Live</span>
+    </span>
+  </div>
+
+  <ul style="margin-left: -20px; margin-bottom: -5px; margin-right: 10px; text-align: justify">
+    <li>Just built to get started with Web Development.</li>
+    <li>It is nothing new or informative.</li>
+  </ul>
+
+  <div style="display: flex; align-items: center; gap: 10px; border-radius: 9999px; padding: 3px; width: fit-content; flex-wrap: wrap">
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="html.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;"> 
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">HTML</span>
+    </span>
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="css.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;">
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">CSS</span>
+    </span>
+  </div>
+</div>
+
+</div>
+
+***
+
+## 📈 Experience
+
+<div style="display: grid; gap: 10px">
+
+<div style="background-color: rgba(0, 255, 255, 0.05); padding: 10px; border-radius: 18px; display: grid; gap: 5px">
+
+  <span style="font-size: 16px; font-weight: 500">Software Developer</span>
+  
+  <p style="font-size: 14px; font-weight: 400; font-style: italic; margin-top: -25px">@Rebelminds</p>
+
+  <ul style="margin: -15px 10px 10px -20px; text-align: justify">
+    <li>Built and deployed 50+ APIs in 14 days (ExpressJS, FastAPI), increasing backend speed by 22%.</li>
+    <li>Developed customer web portal and delivery partner app (React Native, Expo Go) with FCM, achieving 9ms notification latency.</li>
+    <li>Migrated backend from FastAPI to ExpressJS, redesigned 3+ schemas, and set up JWT authentication.</li>
+    <li>Created 16 modular MCP tools for MongoDB and FastAPI, automating agent workflows.</li>
+  </ul>
+
+  <div style="display: flex; align-items: center; gap: 10px; border-radius: 9999px; padding: 3px; width: fit-content; flex-wrap: wrap">
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="express-js.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;"> 
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">ExpressJS</span>
+    </span>
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="supabase.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;">
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">Supabase</span>
+    </span>
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="prisma.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;">
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">Prisma ORM</span>
+    </span>
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="vite.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;">
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">Vite</span>
+    </span>
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="react.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;">
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">ReactJS</span>
+    </span>
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="docker.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;">
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">Docker</span>
+    </span>
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="framer.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;">
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">Framer Motion</span>
+    </span>
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="fastapi.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;">
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">FastAPI</span>
+    </span>
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="jwt.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;">
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">JWT</span>
+    </span>
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="firebase.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;">
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">Firebase</span>
+    </span>
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="expo.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;">
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">Expo GO ( React Native)</span>
+    </span>
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="postman-api.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;">
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">Postman</span>
+    </span>
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="ngrok.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;">
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">Ngrok</span>
+    </span>
+    <span style="background-color: #cecece18; border-radius: 9999px; padding: 3px; display: inline-flex; align-items: center;">
+      <img src="cypress.png" alt="Image description" style="height: 25px; margin-right: 10px; border-radius: 50%;">
+      <span style="margin-right: 5px; font-size: 12px; letter-spacing: 1px">Cypress</span>
+    </span>
+  </div>
+</div>
+
+</div>
 
 ***
 
